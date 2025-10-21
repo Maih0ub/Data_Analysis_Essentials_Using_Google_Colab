@@ -101,7 +101,4 @@ Data-Analysis-Essentials-Using-Google-Colab/
 │   └── Data_Analysis_Essentials_Using_Google_Colab.ipynb
 │
 ├── README.md
-│
-└── (Optional) Output/
-    ├── Data_Analysis_Essentials_Using_Google_Colab.pptx
-    └── Data_Analysis_Summary_Report.pdf
+
