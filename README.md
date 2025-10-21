@@ -30,7 +30,7 @@ A Jupyter Notebook that walks through data exploration, visualization, and insig
 |:-------|:-------------|
 | **Dataset/** | Contains the main dataset used for analysis (`Sales_Transactions_3500.csv`). |
 | **Notebook/** | Contains the main Google Colab notebook file `Data_Analysis_Essentials_Using_Google_Colab.ipynb` which includes all exercises, code cells, outputs, and visualizations. |
-| **Output/** *(optional)* | (Can be added later) to store exported reports such as `.pptx` or `.pdf` summaries. |
+
 
 ---
 
